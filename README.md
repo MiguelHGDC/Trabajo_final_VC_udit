@@ -1,1 +1,1 @@
-# Trabajo final vision por computador
+# Trabajo final visión por computador
